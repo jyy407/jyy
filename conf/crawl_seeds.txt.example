@@ -1,0 +1,7 @@
+# 复制为 crawl_seeds.txt（与 server 同目录约定：在 online 下运行时路径为 conf/crawl_seeds.txt）
+# 每行一个 URL，须为 http://（未启用 OpenSSL 时 https 会被跳过）
+# 空行与 # 开头行忽略
+#
+# 示例（请换成你可访问的公开页面）：
+# http://www.news.cn/
+# http://www.cankaoxiaoxi.com/

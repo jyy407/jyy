@@ -1,0 +1,15 @@
+/article/
+/articles/
+/content/
+/p/
+/detail/
+/news/
+/202
+/20
+html
+.shtml
+
+/question/
+/answer/
+/zhuanlan/
+/column/

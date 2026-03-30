@@ -1,0 +1,9 @@
+# 复制为 crawl_link_allow.txt 后生效（或通过 CRAWL_LINK_ALLOW_PATH 指定）。
+# 非空时：从页面解析出的外链里，只有「完整 URL 至少包含下面某一行的子串」才会入队继续爬。
+# 种子 URL（crawl_seeds.txt）不受此限制，仍会先抓取。
+# 大小写不敏感；多行之间为「或」：匹配任一行即可。
+#
+# 示例：只跟栏目或文章路径
+# /article/
+# /zhuanlan/
+# question
